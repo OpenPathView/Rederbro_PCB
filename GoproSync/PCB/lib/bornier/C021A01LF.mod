@@ -1,0 +1,34 @@
+PCBNEW-LibModule-V1  lun. 16 sept. 2013 22:27:24 CEST
+# encoding utf-8
+Units mm
+$INDEX
+Bornier_FCI_-_2cts_Benvii
+$EndINDEX
+$MODULE Bornier_FCI_-_2cts_Benvii
+Po 0 0 0 15 52376988 00000000 ~~
+Li Bornier_FCI_-_2cts_Benvii
+Sc 0
+AR /51F8E500
+Op 0 0 0
+T0 4.318 1.397 1 1 0 0.15 N I 21 N "C021A01LF"
+T1 2.73 -10.955 1 1 0 0.15 N V 21 N "CONN_2"
+DS 0 0 8.509 0 0.381 21
+DS 8.509 0 8.509 -7.239 0.381 21
+DS 8.509 -7.239 0 -7.239 0.381 21
+DS 0 -7.239 0 0 0.381 21
+$PAD
+Sh "1" R 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 1 "+12V"
+Po 2.45 -4.4
+$EndPAD
+$PAD
+Sh "2" C 2.1 2.1 0 0 0
+Dr 1.4 0 0
+At STD N 00E0FFFF
+Ne 2 "GND"
+Po 5.8 -4.4
+$EndPAD
+$EndMODULE Bornier_FCI_-_2cts_Benvii
+$EndLIBRARY

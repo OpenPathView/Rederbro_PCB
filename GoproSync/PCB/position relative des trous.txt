@@ -1,0 +1,28 @@
+Bord haut droite :
+	X: 231,14
+	Y: 31,75
+
+Centre trous haut droite :
+	X: 226,06
+	Y: 36,83
+Extrème trous haut droite :
+	X: 223,52
+	Y: 36,83
+
+
+Coins haut gauche :
+	X: 144,78
+	Y: 31,75
+
+Centre trous haut gauche :
+	X: 149,86
+	Y: 36,83
+
+Extrème trous haut gauche :
+	X: 147,32
+	Y: 36,83
+
+Bas Gauche centre :
+	X: 175,26
+	Y: 97,79
+	Diamètre: 5,08
